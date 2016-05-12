@@ -1,6 +1,6 @@
 # Simple-Android-Widget-App
 
-Sample Android project that shows the necessary code to create a widget
+Sample Android Studio project that shows the necessary code to create a widget
 
 ### Description
 This is a sample Android Studio project with nothing except a widget, so you can use it to implement widgets in your own 
